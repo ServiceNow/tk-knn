@@ -3,7 +3,7 @@
 
 This repo provides the source code & data of our paper [TK-KNN: A Balanced Distance-Based Pseudo Labeling Approach for Semi-Supervised Intent Classification](ADD Arxiv Link) (Findings EMNLP 2023). If you use any of our code, processed data or pretrained models, please cite:
 ```bib
-@inproceedings{zhang2021greaselm,
+@inproceedings{botzer2023tk_knn,
   title={TK-KNN: A Balanced Distance-Based Pseudo Labeling Approach for Semi-Supervised Intent Classification},
   author={Botzer, Nicholas and Vasquez, David and Weninger, Tim and Laradji, Issam},
   booktitle={Findings of EMNLP 2023},
