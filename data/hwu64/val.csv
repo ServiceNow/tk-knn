@@ -1,0 +1,1077 @@
+text,category
+can you confirm the details please.,general_confirm
+eight am manila time is what in eastern time,datetime_convert
+set the alarm for five am,alarm_set
+change lights to red,iot_hue_lightchange
+book me a taxi for one pm,transport_taxi
+this was not correct command.,general_negate
+did linda connors reply to any of my emails this morning,email_query
+i need to wake up make me the strongest coffee you can make,iot_coffee
+delete the last line,lists_remove
+olly i'd like you just cancel it.,general_commandstop
+show me the recipe of tandoori chicken,cooking_recipe
+start a competitive crossword for us,play_game
+set a reminder for fifteen minutes to change laundry loads,calendar_set
+what album is this song on,music_query
+define god,qa_definition
+what is the current value of yen in american money,qa_currency
+i no longer need the daily five pm alarm,alarm_remove
+will the pizza be here soon,takeaway_query
+what is the latest news from cbs,news_query
+do i have a new email from eric,email_query
+has mike sent me an email,email_query
+list all emails with subject contract,email_query
+"any one would be okay, olly.",general_dontcare
+turn my lights down to a lower level of brightness,iot_hue_lightdim
+please delete bananas from my shopping list,lists_remove
+power off please,iot_wemo_off
+what week of the year does the summer season start,datetime_query
+email hwu@gmail dot com add to email contacts,email_addcontact
+what are some good restaurants near by,recommendation_locations
+make a laundry setting for the volume at twenty,music_settings
+dim the lights to level two,iot_hue_lightdim
+turn up the volume of my speakers,audio_volume_up
+how is the traffic in mg road,transport_traffic
+play song over the rainbow,play_music
+restart american gods,play_audiobook
+"you are the best,.",general_praise
+where is an olive garden that does takeaway,takeaway_query
+angry bird play,play_game
+what movie should i watch today,recommendation_movies
+set a continuous alarm without the option to snooze for seven am please,alarm_set
+yeap good.,general_affirm
+olly would you shut up.,general_commandstop
+give me today's calendar events after six pm,calendar_query
+contacts,email_querycontact
+check all cab companies and get a time booked for three pm,transport_taxi
+is this program is scheduled,calendar_query
+send this message to @microsoft on twitter,social_post
+are there any grocery stores nearby,recommendation_locations
+can you play acoustic music with no commercials,play_radio
+what is us dollar today,qa_currency
+start playing again,play_audiobook
+define a phrase blue sky research,qa_definition
+searching on holidays in my location,recommendation_events
+contacts please,email_querycontact
+hey email jan about our meeting,email_sendemail
+how much is one u. s. d. in inr,qa_currency
+please increase the light,iot_hue_lightup
+please book train ticket to new york,transport_ticket
+from now on mute,audio_volume_mute
+audio on,audio_volume_up
+recite the schedules of the list,lists_query
+my list please,lists_query
+turn off the lights in this room please,iot_hue_lightoff
+can you tell me what the white house is,qa_definition
+what is mom's email address,email_querycontact
+any alarms currently listed,alarm_query
+hey order a side of hot wings with my previous order,takeaway_order
+call a car for me,transport_taxi
+i want to raise the light,iot_hue_lightup
+set meeting with the ceo tomorrow,calendar_set
+please change the lighting to blue,iot_hue_lightchange
+remove my calendar event at one pm today,calendar_remove
+play my morning playlist,play_music
+what restaurants are open near me,recommendation_locations
+is there an alarm for ten am,alarm_query
+take it in hand,iot_cleaning
+what is the time in bangalore,datetime_query
+"s1, would you elaborate further on your answer to me please.",general_explain
+what is the latest email from zita,email_query
+send a reply to mike with the answer four hundred and thirty from his email he sent this morning,email_sendemail
+show me my alarms i have set,alarm_query
+what are the coordinates of everest,qa_factoid
+on the music player set the volume level at sixty,audio_volume_up
+book train ticket to ny,transport_ticket
+book for me an uber taxi to bardonia,transport_taxi
+search for pizza nearby,takeaway_order
+i wouldn't really mind.,general_dontcare
+start pandora,play_radio
+largest animal,qa_factoid
+my day was so busy,general_quirky
+find list in my pda,lists_query
+what is the daily price of johnson and johnson stock,qa_stock
+the joke of the day,general_joke
+please check last thing i said.,general_confirm
+start cleaning,iot_cleaning
+tweet this tweet coffee was too hot and at this company costa coffee,social_post
+change this time to ist,datetime_convert
+order me chinese food,takeaway_order
+solve the calculation,qa_maths
+clear all events for this month,calendar_remove
+show contact of john,email_querycontact
+new updates,social_query
+order chinese food,takeaway_order
+please update list with new item,lists_createoradd
+how many kids jackie chan does have,qa_factoid
+how is president's trump office proceeding,news_query
+incorrect command.,general_negate
+is there any grocery nearby,recommendation_locations
+does bob live in france,email_querycontact
+"nope, i did not say it.",general_negate
+"i do not really care, olly.",general_dontcare
+please check email from my boss,email_query
+i have to go to a meting on friday at noon can you remind me,calendar_set
+find me someone,email_querycontact
+who delivers near here,takeaway_order
+show traffic in ohio,transport_traffic
+what music is currently playing,music_query
+hey i met one of my old classmates today,general_quirky
+what are my new contact emails,email_query
+turn volume up to highest level,audio_volume_up
+please continue reading the hunger games,play_audiobook
+speak again please.,general_repeat
+show me today train time of kalka at jodhpur,transport_query
+suggestions for future,general_quirky
+what is the headline from today's morning local news,news_query
+i like electronic music,music_likeness
+how long does it take to get there,transport_query
+any new facebook posts from amy,social_query
+i need you to mark next monday,calendar_set
+find me the best knock knock joke on the internet,general_joke
+what time is the last train headed to chicago,transport_query
+set mute mode for one hour,audio_volume_mute
+is the pound up or down against the dollar,qa_currency
+what are the top stories on cnn,news_query
+hows the food order going,takeaway_query
+would you check what i said.,general_confirm
+email my sister about mom's birthday jane we should think about arranging the party at the park,email_sendemail
+skip this podcast,play_podcasts
+"s1, please explain further on your words to me.",general_explain
+at one pm today start the robot vacuum cleaner,iot_cleaning
+i would like a cup of coffee with one cream and three sugars,iot_coffee
+could you please check and confirm details.,general_confirm
+lower battery consumption to save setting,music_settings
+are there any crafts fairs happening in this area,recommendation_events
+look up the meaning of logic,qa_definition
+cancel the breakfast at tiffany's house,calendar_remove
+please rate current song as five stars,music_likeness
+i like this song that is playing,music_likeness
+please remove the alarm which i set for today morning,alarm_remove
+can you delete the dentist appointment,calendar_remove
+is there anything special going on nearby,recommendation_events
+what is twenty four times twenty four,qa_maths
+remove next meeting today in my calendar,calendar_remove
+how many events on my list,lists_query
+set a neighbor party for next week,calendar_set
+today i had a record breaking sale,general_quirky
+please check my facebook account,social_query
+"i have no idea for which to choose, olly.",general_dontcare
+clear the list,lists_remove
+that does not matter for me.,general_dontcare
+i need all the local events for this area that are being held this weekend,recommendation_events
+tell me about rock,qa_definition
+what are the results of the election,news_query
+yeah you've got my instructions right.,general_affirm
+turn off plug,iot_wemo_off
+define what a wizard is,qa_definition
+turn wemo on,iot_wemo_on
+any low priced delicacies,takeaway_order
+remove alarm of seven thirty am on monday,alarm_remove
+what alarms have been set for me,alarm_query
+show meaning of clarion,qa_definition
+call pizza hut and order a large pan pizza with ham and mushrooms,takeaway_order
+who sings this,music_query
+cook me some oats,cooking_recipe
+can you start ryan seacrest,play_radio
+would you please confirm details.,general_confirm
+send a tweet about sonys volume issues,social_post
+how expensive is google stock,qa_stock
+i need help making pancakes,cooking_recipe
+could you check instruction.,general_confirm
+can you repeat please.,general_repeat
+play for me the game cricket,play_game
+play a pop station on the radio,play_radio
+euro to u. s. d.,qa_currency
+change background,iot_hue_lightchange
+does my calendar say i'm free on april one two thousand and seventeen,calendar_query
+order me some chipotle,takeaway_order
+is it going to be cloudy in london during the weekend,weather_query
+show ana number,email_querycontact
+give me the average five year stock price of home depot,qa_stock
+i need the time zone from london england instead of central time zone,datetime_convert
+read me the last tweet from the washington post,social_query
+what is the weather like outside,weather_query
+do you hear songs of arrahman music,music_query
+book me a train ticket for saturday,transport_ticket
+get me tom's number,email_querycontact
+i like you stop it.,general_commandstop
+repeat that.,general_repeat
+lets hear it from fm ninety six point five,play_radio
+i need the lights raised can you do that,iot_hue_lightup
+are there any events going on close by,recommendation_events
+how do i cook meatballs,cooking_recipe
+brighten the lights please,iot_hue_lightup
+what's the best chicken place near me,recommendation_locations
+delete an last event reminder of twenty ninth of march twenty seventeen,calendar_remove
+"it's good one, appreciated.",general_praise
+turn up volume,audio_volume_up
+did anybody post on facebook today,social_query
+what time can i call from pennsylvania and it will be business hours in australia,datetime_convert
+activate silent,audio_volume_mute
+"that's helpful,.",general_praise
+mahaboobsayyad@gmail dot com,email_sendemail
+please tell me how can I remove the item,lists_remove
+hello i want to turn off my wemo plug,iot_wemo_off
+give me the alarm times for the next two days,alarm_query
+yes strongly agree.,general_affirm
+make a new contact with this email,email_addcontact
+open lyft,transport_taxi
+please quiet the speaker,audio_volume_mute
+can you continue audiobook the circle,play_audiobook
+i want to change the color of the lights,iot_hue_lightchange
+add this song to my playlist,music_likeness
+calculate the travel time if i go to orlando by train,transport_query
+i need an email to be sent to comcastcom about my service issues,email_sendemail
+tell me the temperature in pheonix,weather_query
+can you tell me if i have any alarms set,alarm_query
+whatever is good.,general_dontcare
+add paper towels to the grocery list,lists_createoradd
+mobile device explanation,qa_definition
+please slow down volume of speaker,audio_volume_down
+reserve a seat for me on the train march twentieth,transport_ticket
+"nope, i didn't say this.",general_negate
+give me the specs on the bugatti veyron,qa_definition
+please start the vacuum,iot_cleaning
+begin vacuuming,iot_cleaning
+read available lists,lists_query
+what is the answer to four plus four,qa_maths
+tweet consumer service that the quantity is wrong,social_post
+locate nearby dining places,recommendation_locations
+turn shuffle on music player on,music_settings
+set an alarm for tomorrow at six in the morning,alarm_set
+i like you to check it please.,general_confirm
+increase brightness in the room,iot_hue_lightup
+whats today,datetime_query
+what day of the week does the twenty second fall on this month,datetime_query
+when will the match start,calendar_query
+disable all alarms set for today,alarm_remove
+i would like to have a sushi can you order me a lunch,takeaway_order
+what are the current lists i have,lists_query
+mary's contact number,email_querycontact
+how heavy is the traffic on the i fifteen in las vegas this hour,transport_traffic
+forward this one,play_podcasts
+please give me the traffic report for this afternoon,transport_traffic
+What's playing,music_query
+what is the weather for this week,weather_query
+i need to make a list of bills that are due,lists_createoradd
+tell me it one more again please.,general_repeat
+lower the light level in my house,iot_hue_lightdim
+instagram,social_query
+lower the light of hall percent,iot_hue_lightdim
+"do not really mind for whatever, olly.",general_dontcare
+which new emails were received,email_query
+i'd like an espresso,iot_coffee
+please set a reminder for church services on sundays for eleven am,calendar_set
+show me share price of tata,qa_stock
+tell them that their lines were too long,social_post
+please play only sad song in music player,play_music
+add event to date,calendar_set
+add this email to a new contact,email_addcontact
+let's play workout playlist,play_music
+tell me what one plus one is,qa_maths
+what you have said was not so clear to me.,general_explain
+rowan atkinson info,qa_factoid
+open book,play_audiobook
+i am going to chinatown in half an hour book an uber for me,transport_taxi
+how much is two thousand five hundred philippine pesos in dollars,qa_currency
+tell me that one more time please.,general_repeat
+set an alarm forty minutes from now,alarm_set
+that is enough.,general_commandstop
+can you get me a taxi home,transport_taxi
+add wine to list,lists_createoradd
+add new email to anna,email_addcontact
+send an email to emma,email_sendemail
+list events in ny,recommendation_events
+will trump visit russia anytime soon,news_query
+olly please will you shut up.,general_commandstop
+"great job, you have done well.",general_praise
+what's a good movie that's out right now,recommendation_movies
+please tell me it once again.,general_repeat
+"s1, please explain me more on your answers.",general_explain
+slow down the speaker volume,audio_volume_down
+i need to change my house lights colour to blue,iot_hue_lightchange
+how old is betty white,qa_factoid
+turn on radio,play_radio
+can you create a new list,lists_createoradd
+"it was good one, thank you very much.",general_praise
+tell me items that are on my shopping list,lists_query
+could you tell me about the alerts i have set,alarm_query
+can you put on the next i heart music radio show,play_radio
+adjust the light,iot_hue_lightchange
+it's coffee time,iot_coffee
+it is nine here what time is it in california,datetime_convert
+turn corner light on,iot_hue_lighton
+tell me if five hundred and forty is subtracted seven time by twenty eight,qa_maths
+"you are my hero,.",general_praise
+lower the brightness of the lights,iot_hue_lightdim
+whats online,social_query
+what's the address for alex,email_querycontact
+mute speakers please,audio_volume_mute
+how much was airtel sold for sometime back,qa_stock
+what is the time difference between eastern and pacific time zones,datetime_convert
+tell me once more.,general_repeat
+start a new shopping list,lists_createoradd
+change the color of the lights,iot_hue_lightchange
+i like this song please save,music_likeness
+display address of john,email_querycontact
+whatever.,general_dontcare
+resume audiobook please,play_audiobook
+how do i get to brighton,transport_query
+can you turn down the volume please and tell me what is the title of this song,music_query
+please remove this event from my calendar,calendar_remove
+tweet consumer service,social_post
+wake me up at six thirty,alarm_set
+what song in the theme song for frasier,music_query
+i would like to hear your last the procedure said again.,general_repeat
+does my co worker have a home phone number,email_querycontact
+change the light color to red,iot_hue_lightchange
+what is the exchange rate for the english pound and us dollar,qa_currency
+add a reminder to april fourth to go to the dentist,calendar_set
+give me the weather for merced at three pm,weather_query
+please share up to the minute details on sprint,news_query
+turn up,audio_volume_up
+is there bad traffic on the highway right now,transport_traffic
+don't really know.,general_dontcare
+is it raining now,weather_query
+turn down the speakers,audio_volume_down
+did you get the last thing said correctly?,general_confirm
+where is the nearest train to me,transport_query
+i want to listen jazz,play_music
+is there any new news on trump,news_query
+olly cancel all soccer practice alarms,alarm_remove
+please check episode number thirty nine,play_podcasts
+is it a soft evening tonight,weather_query
+bring up a recipe for turkey meatballs,cooking_recipe
+what is the number of the closest taxi company,transport_taxi
+turn up sound,audio_volume_up
+please make me a cappuccino,iot_coffee
+what time is set for my wake up alarm,alarm_query
+how can i go from boston to new york by train,transport_query
+have a anyinput day,general_quirky
+please send a complaint about my horrible experience with a company,social_post
+please check the traffic to the home,transport_traffic
+how much later is new york than la,datetime_convert
+reserve a train ticket for me today to des moines,transport_ticket
+find me a taxi,transport_taxi
+what is a good iranian film from two thousand and sixteen,recommendation_movies
+i need to hear a joke can you tell me one,general_joke
+eliminate the list kickball but make sure the contacts remain,lists_remove
+check and confirm the details please.,general_confirm
+add a reminder to my calendar every year on this date,calendar_set
+when is the doctor's appointment,calendar_query
+tell me a joke,general_joke
+make an alarm,alarm_set
+play the most recent podcast for this american life,play_podcasts
+remove grocery list please,lists_remove
+olly please just cancel.,general_commandstop
+please will you check and confirm my last instruction.,general_confirm
+what music do i like,music_query
+what's going on between three hundred and thirty and four,calendar_query
+what is frieda's home address,email_querycontact
+hey play my favourite podcast from list,play_podcasts
+delete last item listed,lists_remove
+set alarm to begin,alarm_set
+tweet a complaint to comcast,social_post
+i want to listen to rock,play_music
+play seven habits of effective people,play_audiobook
+what was the weather for the week,weather_query
+have you heard any good jokes lately,general_joke
+play fmod,play_game
+i want a train ticket from boston to new york,transport_ticket
+please remove any alarms that i have set,alarm_remove
+make me some coffee from the coffee machine,iot_coffee
+find me the distance and direction by train to rccg in ikoyi lagos,transport_query
+are there any events happening in town,recommendation_events
+add a wrist watch to the shopping list,lists_createoradd
+send this message to the family group starts with a,email_sendemail
+does mcdonalds do takeaway,takeaway_query
+which was that coldplay song i listened to yesterday evening can you play it again,music_query
+how me the time now in boston,datetime_query
+start the poker game,play_game
+what movies are playing near me,recommendation_movies
+remove all upcoming events please,calendar_remove
+set an alarm for two pm,alarm_set
+turn off bedroom light at nine thirty pm,iot_hue_lightoff
+delete all the events of today,calendar_remove
+make a coffee,iot_coffee
+how do i change the color of the lights,iot_hue_lightchange
+how is the traffic on third street,transport_traffic
+write an email about next week weather to my wife,email_sendemail
+please turn off all the lights in the house,iot_hue_lightoff
+please help me turn on the robot vacuum cleaner,iot_cleaning
+what is the equivalent of one inr in zimbabwe dollars,qa_currency
+open the books and play brains book from chap nine,play_audiobook
+time in chicago,datetime_query
+change lighting colours,iot_hue_lightchange
+will you retry it please.,general_repeat
+what are todays top podcasts,play_podcasts
+lower audio,audio_volume_down
+i need the arrival time for new york train,transport_query
+is there any pending reminder for me,calendar_query
+what day is it today,datetime_query
+are there any events coming up,recommendation_events
+what events are in me area,recommendation_events
+play the jungle book,play_audiobook
+amazon stock price,qa_stock
+please shut off.,general_commandstop
+yeah you have gotten my instructions perfectly.,general_affirm
+let me hear some bluegrass music,play_music
+tell me which stocks were the biggest gainers in stock market nasdaq today,qa_stock
+start candy crush,play_game
+pause the music,audio_volume_mute
+does dominos deliver,takeaway_query
+is the anniversary event on twenty second of this month true,calendar_query
+one pm removed,alarm_remove
+does peking garden deliver,takeaway_query
+what is your mother language,general_quirky
+do i have an alarm set for today,alarm_query
+how many dollars are there in a g. b. p.,qa_currency
+when will my food be ready,takeaway_query
+book a train ticket from washington dc to savannah georgia,transport_ticket
+reply an email to jason that i will not come tonight,email_sendemail
+please send a reminder email to peter and ask him how long he will be taking to prepare the presentation ppt,email_sendemail
+have i got new content in my twitter feed,social_query
+what times do my alarms go off,alarm_query
+what is your mood today,general_quirky
+please restart the handmaid's tale,play_audiobook
+didn't understand your answers.,general_explain
+tell me that words spoke again please.,general_repeat
+access coffee maker begin process,iot_coffee
+i don't want to attend the dinner on march first any more so could you remove it from my agenda,calendar_remove
+what does speaker mean,qa_definition
+google the word,qa_definition
+how much is one plus one,qa_maths
+conversion between dollars and pounds,qa_currency
+start playing fm ninety six point five when it is one pm,play_radio
+change the light to blue,iot_hue_lightchange
+please remind me about the event later five pm,calendar_set
+show me what the ingredients are,cooking_recipe
+lights dim,iot_hue_lightdim
+please set the vacuum to start going now,iot_cleaning
+what is terranova stock going for,qa_stock
+which event should i attend in my area,recommendation_events
+give me the list of available train tickets from edinburgh to leeds,transport_query
+what's the next thing on my list of appointments,lists_query
+is there a sporting event tomorrow in chicago,recommendation_events
+alarm time for twelve pm,alarm_set
+what does the traffic look like headed to la,transport_traffic
+i need you to turn on the vacuum cleaner,iot_cleaning
+add the item to a list,lists_createoradd
+may i know the traffic situation,transport_traffic
+check the command.,general_confirm
+do i have anything on the list,lists_query
+low the volume,audio_volume_down
+is the train time to a location long,transport_query
+lets play pinball,play_game
+move on to the next podcast episode,play_podcasts
+i want to know the stocks of amazon,qa_stock
+how long do i roast chicken breasts,cooking_recipe
+"it's perfect job, musch appreciated, olly.",general_praise
+downloads management,general_quirky
+make the lighting bit more warm here,iot_hue_lightchange
+i want to clean my bedroom put the vacuum on and go to my room,iot_cleaning
+please raise the lights to max,iot_hue_lightup
+please remove the alarm set for wednesday called kickball,alarm_remove
+what happens on the fourth of july,recommendation_events
+what is on the list for today,lists_query
+you have done that correctly thanks.,general_praise
+fetch me the phone number of Alexander,email_querycontact
+i'd like you to turn turn on the tv,iot_wemo_on
+i need a coffee,iot_coffee
+can you add cups to my grocery list,lists_createoradd
+local theater screening which movie,recommendation_movies
+this weekend what events are going on in seattle,recommendation_events
+i want the wemo socket off,iot_wemo_off
+book me a taxi to the mall of america please,transport_taxi
+i am sorry but i think that's not correct.,general_negate
+i want to order some food,takeaway_order
+thanks but i think this was not the correct command.,general_negate
+does peking garden do orders online,takeaway_query
+turn on the socket,iot_wemo_on
+thanks but you didn't get me.,general_negate
+lights turn off,iot_hue_lightoff
+now it's five thirty pm in india what about the time in ivory coast,datetime_convert
+turn on silent mode until my alarm goes off,audio_volume_mute
+elaborate further on what you've just said to me please.,general_explain
+would you shut up please.,general_commandstop
+show me the name of the song playing right now,music_query
+what time is the train passing by,transport_query
+let's play a game together,play_game
+"thanks for reminding me, olly.",general_praise
+how are the top ten stocks at the moment,qa_stock
+find me a podcast on wrestling,play_podcasts
+write this complaint to comcasts customer service twitter,social_post
+do you serve for home delivery,takeaway_query
+add a new email in my contacts from john,email_addcontact
+is there valet service at the event,calendar_query
+show unread new emails,email_query
+ask peking garden when my food will arrive,takeaway_query
+shift the light off,iot_hue_lightoff
+what is jimmy johns's corporate number,email_querycontact
+what is happening to my order,takeaway_query
+can i carry out with this restaurant,takeaway_query
+are there any roadblocks,transport_traffic
+show the method to prepare icecream,cooking_recipe
+hackernews,news_query
+i need you to remind me to go to store tomorrow,calendar_set
+order chinese for delivery,takeaway_order
+how many dollars is in pounds,qa_currency
+i need an alarm set for five hundred and thirty am tomorrow,alarm_set
+yeah that was fantastic.,general_affirm
+find me new comments from my facebook,social_query
+can you place the sound on mute,audio_volume_mute
+"it is useful, thank you so much.",general_praise
+order a train ticket to boston,transport_ticket
+can you create new list for me,lists_createoradd
+up,audio_volume_up
+could you say one more time please.,general_repeat
+games,play_game
+tell me about sean connery,qa_factoid
+yes it's confirmed.,general_affirm
+increase light intensity,iot_hue_lightup
+change the lights to dim,iot_hue_lightdim
+check my last post on facebook,social_query
+remove the list,lists_remove
+hey what time is it in london now,datetime_query
+i want to see the next podcast available,play_podcasts
+does pizza hut have my order ready,takeaway_query
+tell me again please.,general_repeat
+update the calendar with the last event removed,calendar_remove
+what's new in facebook,social_query
+"excellent work, you've done well.",general_praise
+turn on new smart socket,iot_wemo_on
+are there any construction areas on harvard,transport_traffic
+retry the last spoken.,general_repeat
+find twitter handle of tom cruise,qa_factoid
+delete my next meeting,calendar_remove
+is there any traffic to work,transport_traffic
+get contact,email_query
+on what date is easter this year,datetime_query
+what is exchange for the us and euro,qa_currency
+can you eat sweet potato greens raw,cooking_recipe
+what time do i have a doctors appointment on the twenty second,calendar_query
+please tell me the name of this band,music_query
+how much would it cost to buy stock in apple,qa_stock
+increase the volume to fifty,audio_volume_up
+please hold for the next hour,audio_volume_mute
+yes exact.,general_affirm
+change the light to pink color,iot_hue_lightchange
+play one more time,play_music
+can you lie,general_quirky
+give me some recipes for sheperds pie,cooking_recipe
+clarify further on that to me please.,general_explain
+on the plug,iot_wemo_on
+Check outlook,email_query
+give me the description of a smartphone circuit,qa_definition
+switch on the wemo plug,iot_wemo_on
+i want a train ticket to edinburgh,transport_ticket
+start from last time on my audio book,play_audiobook
+can you find the dave ramsey podcast that aired earlier today,play_podcasts
+lower the overhead lights,iot_hue_lightdim
+play all songs by martina mcbride,play_music
+what are the vietnamese restaurants in the area,recommendation_locations
+do i have any alarms for tomorrow morning,alarm_query
+could you please set an alarm at six am,alarm_set
+what groups are listed in my contacts,lists_query
+tell what is the value of sin thirty,qa_maths
+turn on robot vacuum cleaner,iot_cleaning
+what list do i have,lists_query
+march one is susan's birthday right,calendar_query
+name a rom com movie playing in and around new york theatres,recommendation_movies
+shut off the lights in the kitchen,iot_hue_lightoff
+play wuthering heights from where i left off,play_audiobook
+Put milk on my shopping list,lists_createoradd
+what is today's weather forecast,weather_query
+what time does the train from new york come in,transport_query
+once again explain your answer.,general_explain
+i want the email to be sent to my new email address abc@gmail dot com,email_sendemail
+email chris add following content sorry I will be late today,email_sendemail
+solution for eighty one divided by nine,qa_maths
+what a wonderful song can you save what i just said for me,music_likeness
+tweet a complaint to amazon about late shipment,social_post
+on every tuesday remind me to go shopping,calendar_set
+add appointment to list,lists_createoradd
+i'm done with today's to do list,lists_remove
+what is the square root of nine,qa_maths
+this was not what i am searching for.,general_negate
+that doesn't really matter to me.,general_dontcare
+play podcast a,play_podcasts
+let's play a game of chess,play_game
+do not wake me up on weekends,alarm_remove
+rate this song five stars and save the rating,music_likeness
+make some coffee,iot_coffee
+how much is an euro worth,qa_currency
+which restaurants offer take out food,takeaway_query
+contact pizza hut and order a large pizza with ham and mushrooms,takeaway_order
+can you remind me of sunday gym every saturday evening,calendar_set
+i want to buy a train ticket tomorrow for boston to new york,transport_ticket
+what alarms do i have set for thursday,alarm_query
+i want to hear sleeptime playlist next,play_music
+decrease the volume to ten percent,audio_volume_down
+read me the most updated news on bbc,news_query
+play next episode of harry potter by j. k. rowling,play_audiobook
+please turn off all the lights in my house,iot_hue_lightoff
+doesn't matter with me.,general_dontcare
+please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years,qa_stock
+tell me my choices for a good steak restaurant near here,recommendation_locations
+let me hear my list,lists_query
+can you check last thing i said please.,general_confirm
+where's the best and most affordable place to stay in san diego,recommendation_locations
+give me the definition of the word armor,qa_definition
+events happening between eight am and five pm today,calendar_query
+what events are going on around my place,recommendation_events
+"you rock, i appreciate it.",general_praise
+prepare coffee,iot_coffee
+delete the item two from the list,lists_remove
+would you stop.,general_commandstop
+show me my reminders,calendar_query
+what is the weather going to be like on march twentieth two thousand and seventeen,weather_query
+please turn off the lights in this room,iot_hue_lightoff
+call a taxi for me,transport_taxi
+turn off lights in bedroom,iot_hue_lightoff
+write down that i am going to meet with jenny on the third okay,calendar_set
+i like this song what is it can you please repeat it once,music_likeness
+does that restaurant deliver,takeaway_query
+turn on the lamp,iot_hue_lighton
+switch on the radio and play hello fm station,play_radio
+repeat this song three times,music_settings
+good response to command.,general_affirm
+cancel alarm for tenth of march two thousand seventeen,alarm_remove
+please play james altucher's podcast,play_podcasts
+tweet the current temperature,social_post
+change my music player volume to eighty percent,audio_volume_up
+make an alarm for four pm,alarm_set
+i would like you to check and confirm my last command please.,general_confirm
+what is your name,general_quirky
+radio play nine hundred and eighty nine please,play_radio
+describe what a sphere is,qa_definition
+whats a good place to eat around midtown new york,recommendation_locations
+book a taxi for pickup at my current location in one hour's time,transport_taxi
+i need to hear again.,general_repeat
+olly that would be all.,general_commandstop
+how many numbers are saved for alex,email_querycontact
+please would you cancel it.,general_commandstop
+why did bob dylan earn a nobel peace prize,qa_factoid
+can you check and confirm detail please.,general_confirm
+please rephrase more on what you have just said to me.,general_explain
+could you try what you just said one more again.,general_repeat
+where is the nearest pub in the city,recommendation_locations
+what is my location,general_quirky
+"musch appreciated, that's good.",general_praise
+disable shuffle,music_settings
+rj raunak programme play on ninety two point seven fm,play_radio
+can you please tell me what i have on my list,lists_query
+can you book a train ticket for my father,transport_ticket
+did you set the alarm for five am,alarm_query
+yeap get that right.,general_affirm
+send this song to my favorites,music_likeness
+find the correct temperature for frying a whole turkey,cooking_recipe
+please turn off the lights in bedroom,iot_hue_lightoff
+lower lights now,iot_hue_lightdim
+what is the size of the united states,qa_factoid
+pick up wuthering heights where we left off,play_audiobook
+i need to get a ticket via train to orlando from hwood,transport_ticket
+who was the first president of united states,qa_factoid
+show me emails from my friends,email_query
+please clear out my calendar completely,calendar_remove
+update on email,email_query
+nightime,general_quirky
+fast road to get home,transport_traffic
+check my twitter account,social_query
+turn all lights on,iot_hue_lighton
+turn living room lights red,iot_hue_lightchange
+i would like to mute the speakers please,audio_volume_mute
+"it was amazing, olly.",general_praise
+who wrote the song i just wanna dance with you,music_query
+find me the local npr station,play_radio
+i want to change the light colors,iot_hue_lightchange
+i would like to hear some good funny jokes,general_joke
+please will you check last thing said.,general_confirm
+play tic tac toe with me,play_game
+tag you're it,play_game
+place a take out order at olive garden,takeaway_order
+see see for me the alarms that you have set tomorrow morning,alarm_query
+make a new list for school supplies,lists_createoradd
+i hate how long the traffic jams get,general_quirky
+download and save song of dangal movie,music_likeness
+further elaborate me on what you have said please.,general_explain
+what is computer,qa_definition
+show exchange rate of u. s. d. and inr,qa_currency
+play me some podcasts about getting rich quick,play_podcasts
+march tenth lands on what day of the week,datetime_query
+book me a train for the next available train,transport_ticket
+recommend a local steak restaurant,recommendation_locations
+find me a nice restaurant for dinner,recommendation_locations
+"s2, i didn't catch up with you.",general_explain
+i need you to turn off the light of my bed room,iot_hue_lightoff
+is there a well rated pizza place between fourteenth and eighteenth streets,recommendation_locations
+what mexican food is around me,recommendation_locations
+will it get warmer here next week,weather_query
+provide what is there on the list,lists_query
+give me more light,iot_hue_lightup
+what's going on in new york,news_query
+be funny for me,general_joke
+switch on the lights,iot_hue_lighton
+is gus's a take out place,takeaway_query
+what is name of the song currently playing,music_query
+turn off the lights,iot_hue_lightoff
+"olly that is enough, cancel.",general_commandstop
+check emails for last hour,email_query
+yeah exact response.,general_affirm
+open news about bp oil,news_query
+let's have the radio on,play_radio
+can you search trump,news_query
+set radio,play_radio
+rephrase further on your response please.,general_explain
+lets play,play_game
+turn off my smart plug socket,iot_wemo_off
+is there any events planned for the next three months,calendar_query
+tell me about price of stock for innova,qa_stock
+how much is the euro worth versus us dollar,qa_currency
+did i remember to set a reminder alarm for my next doctor's appointment,alarm_query
+set a reminder for my shopping trip tomorrow at five pm,calendar_set
+can you just stop it please.,general_commandstop
+add the song to my favorites,music_likeness
+let me listen to the latest lovett or leave it podcast,play_podcasts
+what is the day on twenty third march,datetime_query
+"nope, incorrect command.",general_negate
+remove the milk from the shopping list,lists_remove
+initiate the music on the electronic playlist,play_music
+give me a geographic fact about vilnius,qa_factoid
+yeah that is perfect.,general_affirm
+set an alarm for the dance classes two hours before the classes start,alarm_set
+could you say the sentence spoken once again please.,general_repeat
+find me my dad's email address,email_querycontact
+vacuum on,iot_cleaning
+how many sides are on a pentagon,qa_factoid
+what is traffic,transport_traffic
+please turn off the light,iot_hue_lightoff
+respond back to the mail,email_sendemail
+could you just cancel it please.,general_commandstop
+turn down the sound,audio_volume_down
+please can you stop it.,general_commandstop
+i want to book a train ticket,transport_ticket
+say a funny,general_joke
+what exhibits or shows are scheduled at the metropolitan theater,recommendation_events
+what is the current time right now,datetime_query
+check that.,general_confirm
+turn up the lights,iot_hue_lightup
+invite people to the calendar event,calendar_set
+please remove dallas from my travel itinerary,lists_remove
+play thinking out loud next,play_music
+find a train going from prague to brno,transport_query
+find my email for date,email_query
+i was unclear about what you have said.,general_explain
+turn up your volume,audio_volume_up
+i think incorrect.,general_negate
+secure train passage for me on july three,transport_ticket
+could you speak up,audio_volume_up
+it seems like olly's command was not right.,general_negate
+could you dim the lights,iot_hue_lightdim
+i want you to remove the item from the list,lists_remove
+play the next episode of a podcast,play_podcasts
+i want to hear program one on lastfm,play_radio
+i think this was not the correct answer.,general_negate
+it will be good if you yellowish the light,iot_hue_lightchange
+is it going to be cloudy or sunny today in bangalore,weather_query
+can i get the time,datetime_query
+Shut down the sound,audio_volume_mute
+i am unclear about your answer.,general_explain
+what are the estimated temperatures this afternoon,weather_query
+whats on my shopping list,lists_query
+can you feel,general_quirky
+kill item,lists_remove
+what is tomorrows date,datetime_query
+what alarms are coming up,alarm_query
+that song was awesome can you repeat,music_likeness
+should i take my raincoat with me now,weather_query
+search for a good nerd joke,general_joke
+how much money is one dollars worth in denmark,qa_currency
+don't let me forget i have a parent teacher conference this monday at four hundred pm,calendar_set
+resume playing the miniaturist,play_audiobook
+where does john smith live and what is his phone number,email_querycontact
+hotel california is sung by whom,music_query
+vacuum the living room in ten minutes,iot_cleaning
+answer the email,email_sendemail
+skip to the next song,play_music
+are there any new snaps on snapchat,social_query
+tell me about new emails,email_query
+what's the meaning of rumplestiltskin,qa_definition
+yeap you've done that right.,general_affirm
+what's going on facebook,social_query
+yeap right.,general_affirm
+how do i contact charles,email_querycontact
+send this email to reply to the latest emails,email_sendemail
+yes fantastic response.,general_affirm
+turn wemo plug socket on,iot_wemo_on
+how do i make cookies,cooking_recipe
+show me nearest theatre,recommendation_movies
+please tweet for me about the bad service rended by the taj restaurant,social_post
+how many shares of apple can i get for,qa_stock
+that's not what i just said.,general_negate
+this doesn't really matter to me.,general_dontcare
+where can i shop as a local tourist,recommendation_locations
+"it's fantastic, musch appreciated.",general_praise
+clear my next event,calendar_remove
+"send email to robert, what time is dinner",email_sendemail
+am i free on sunday day,calendar_query
+play the next podcast episode,play_podcasts
+divide one thousand five hundred by one hundred and sixty,qa_maths
+will you retry please.,general_repeat
+brighten up the lighting,iot_hue_lightup
+start the satellite music feed,play_music
+give me a joke,general_joke
+event remove,calendar_remove
+order chinese from china spring wonton soup and a small beef and broccoli,takeaway_order
+delete all lists,lists_remove
+how much is starbuck's stock these days,qa_stock
+play the next episode of radiolab,play_podcasts
+what is the best movie to watch with a glass of wine,recommendation_movies
+check the events on calendar and delete the next event,calendar_remove
+can you explain me further on what you just said.,general_explain
+can you call an uber for me,transport_taxi
+yeap correct response.,general_affirm
+turn off the closet light,iot_hue_lightoff
+turn off shuffle,music_settings
+create a new list,lists_createoradd
+lower the speakers,audio_volume_down
+please reply to my colleagues mail about his query,email_sendemail
+raise lights to full power,iot_hue_lightup
+any new emails after five pm,email_query
+please provide world hot news,news_query
+explain further.,general_explain
+be quiet,audio_volume_mute
+what time are the trains going to chennai leaving,transport_query
+the song in background is cool,music_likeness
+set an alarm for five hundred and thirty,alarm_set
+can you really see russia from alaska,qa_factoid
+how long to get to work,transport_traffic
+goddammit.,general_negate
+status of weather,weather_query
+add a five am alarm in place of my nine pm alarm,alarm_set
+bed room two lights off,iot_hue_lightoff
+please order some sushi for dinner,takeaway_order
+find the recipe for sambar in cookingforu application,cooking_recipe
+info of the upcoming events,recommendation_events
+can you get me a cup of coffee please,iot_coffee
+"uhh no, i think not right response.",general_negate
+run game,play_game
+send tweet to wallmart,social_post
+could you clarify me on it further.,general_explain
+right response to command.,general_affirm
+do you know any good jokes,general_joke
+play the song for me,play_music
+i like soft rock music,music_likeness
+add light,iot_hue_lightup
+can you set an alarm for me,alarm_set
+forget alarm,alarm_remove
+"any one, olly.",general_dontcare
+send a tweet to amazon customer service that the package was delivered late,social_post
+show me the time,datetime_query
+any one will be fine.,general_dontcare
+train departure,transport_query
+please mute yourself,audio_volume_mute
+i want to find some chinese food what is near me,recommendation_locations
+may i know what is trending in facebook,social_query
+i like you just cancel.,general_commandstop
+yeap you've got your understanding right.,general_affirm
+do the restaurant deliver,takeaway_query
+could you repeat that.,general_repeat
+you have understood my instructions exactly.,general_affirm
+what time will my alarm go off today,alarm_query
+i need to play sims,play_game
+freezing,cooking_recipe
+set up a taxi for eleven am tomorrow,transport_taxi
+fraud in weighing products,social_post
+what is on the agenda for today,calendar_query
+can you give me a recipe for homemade chicken noodle soup,cooking_recipe
+i saw a bulldog today,general_quirky
+will you confirm that please.,general_confirm
+the definition of life,qa_definition
+keep me up to date on the election news,news_query
+"it's wonderful job, thank you very much.",general_praise
+"i wouldn't really mind, olly.",general_dontcare
+tweet complaint to amazon products,social_post
+what is the stock price of nike today,qa_stock
+switch off light,iot_hue_lightoff
+book an uber to the nearest mall in the next half hour,transport_taxi
+i don't really mind for whatever.,general_dontcare
+what do you think i should have for breakfast,general_quirky
+open radia,play_radio
+will you please check and confirm the last thing i said.,general_confirm
+convert one kilo to pound,qa_maths
+what is the deepest point on earth,qa_factoid
+new item for list,lists_createoradd
+just let me know the current date today,datetime_query
+create new contact with email,email_addcontact
+what's happening with the hurricane in the gulf,news_query
+open grocery list and add milk,lists_createoradd
+Lets play tic tac toe,play_game
+check my facebook for notifications,social_query
+are there any cooking classes nearby my area,cooking_recipe
+turn off the wemo socket in the kitchen,iot_wemo_off
+if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book,qa_maths
+prepare a cup of coffee for me,iot_coffee
+order a train ticket to los angeles now,transport_ticket
+it was not the correct response.,general_negate
+i need the exchange rate for the us dollar and the euro,qa_currency
+delete the following list,lists_remove
+is it true that susan's birthday is on march first,calendar_query
+tell a joke that puts smile on my face,general_joke
+do i have a meeting today,calendar_query
+how much would it cost to buy a share of target,qa_stock
+can you deleted the current event,calendar_remove
+play hopsin from my latest playlist,play_music
+"you are my hero, thank you, olly.",general_praise
+you gave me not correct information.,general_negate
+hey turn off the light please,iot_hue_lightoff
+resume the two towers audiobook,play_audiobook
+switch off the power,iot_wemo_off
+play this audiobook,play_audiobook
+what is the current time in chennai,datetime_query
+off mobile charger plug,iot_wemo_off
+add this song to my catalogue,music_likeness
+i need to turn the lights down,iot_hue_lightdim
+i need to book a train ticket to la,transport_ticket
+reserve a taxi,transport_taxi
+get the roomba to clean up,iot_cleaning
+please could you tell me that comment said once again.,general_repeat
+where was marlon brando born,qa_factoid
+start house cleaning,iot_cleaning
+"this does not matter to me, olly.",general_dontcare
+recipe please,cooking_recipe
+is there life on other planets,general_quirky
+weather in home town,weather_query
+will you further elaborate me on it please.,general_explain
+tell me if anything important is happening on social media today,social_query
+olly can you cancel please.,general_commandstop
+when was this song released,music_query
+how is the weather down in orange tx,weather_query
+does restaurant have takeaway,takeaway_query
+can you find me a train ticket to montauk,transport_query
+lights brighter,iot_hue_lightup
+please speak loud,audio_volume_up
+play the veldt by,play_music
+i would have avoided the traffic if i went early,transport_traffic
+olly i want you cancel it.,general_commandstop
+speakers off,audio_volume_mute
+on february fourteenth make dinner reservations at the restaurant,calendar_set
+do a tournament with me in candy crush,play_game
+"dammit, it isn't what i asked.",general_negate
+hey go from off to on my vacuum in five minutes,iot_cleaning
+please make the smart socket turn off,iot_wemo_off
+do you know what day it is,datetime_query
+is that song from shakira,music_query
+please change the light to green,iot_hue_lightchange
+add new item,lists_createoradd
+can you set my coffee machine to make me coffee at seven am,iot_coffee
+start the coffee maker,iot_coffee
+what should i do this weekend,recommendation_events
+hey order two wings with french fries from the chinese food store,takeaway_order
+open up a new list,lists_createoradd
+play the latest games,play_game
+how far is parana river,qa_factoid
+i would like to hear heathens by twenty one pilots,play_music
+what's going on in the world these days,news_query
+tweet verizon customer service,social_post
+top news,news_query
+aib podcast on kashmirstart it,play_podcasts
+how many lists are open,lists_query
+anything unique to do in the city today,recommendation_events
+it's exact.,general_affirm
+put that song in my favourite list,music_likeness
+what's one divided by plus two divided by cup,qa_maths
+tell me about donald trump,qa_factoid
+turn off all the lights,iot_hue_lightoff
+check any mail from amazon,email_query
+can you tell me what list i have,lists_query
+play radio station,play_radio
+find easy recipe for corn bread,cooking_recipe
+when was justin bieber born,qa_factoid
+what is playing at amc twenty,recommendation_movies
+book an outstation cab of ola,transport_taxi
+cancel dentist appointment for this week,calendar_remove
+make my coffee,iot_coffee
+get rid of bananas on the list,lists_remove
+show me upcoming events in the quad cities,recommendation_events
+lower lights in kitchen,iot_hue_lightdim
+what about the new york city traffic,transport_traffic
+what new movies are good,recommendation_movies
+don't make any sounds,audio_volume_mute
+what temperature should the oil be for frying french fries,cooking_recipe
+within the past three months how many meetings did i have with mr richards,calendar_query
+my set alarms,alarm_query
+i do not know.,general_dontcare
+give a last minute update on incoming emails please,email_query
+ensure i have to get up at six in morning,alarm_set
+turn off the lights please,iot_hue_lightoff
+what are my available lists,lists_query
+i would like to know the route the train will go to get to miami,transport_query
+what is the current central time,datetime_query
+dont do that again.,general_negate
+i want a coffee,iot_coffee
+change the lights of the house to a blue hue,iot_hue_lightchange
+what are amd stock prices,qa_stock
+what time is my domino's order expected to arrive,takeaway_query
+whats the current price of mcdonalds stock,qa_stock
+find me the exchange rate between dollars and bitcoin,qa_currency
+michael jackson family background,qa_factoid
+what is the song currently playing,music_query
+lets begin buddy,general_quirky
+tweet to amazon about late delivery of my tv,social_post
+save this channel on pandora please,music_likeness
+did you get my last instruction correctly?,general_confirm
+what is today's weather in springfield,weather_query
+can you please book a train ticket for next saturday to boston,transport_ticket
+i want to hear this radio station now,play_radio
+order me a cheese burger from tommy's burgers,takeaway_order
+add sarah as email contact,email_addcontact
+recommend a restaurant with medium expense,recommendation_locations
+post to twitter got a hectic day ahead,social_post
+bring back talking after,audio_volume_up
+call the nearest pizza place that offers buffalo pizza,takeaway_order
+please send email to pawel with reminder,email_sendemail
+add dr rosenstock as an email contact,email_addcontact
+play my usher radio station,play_radio
+if my vacuum cleaner is not activated please activate it,iot_cleaning
+if i have fifty dollars and spend twenty four how many dollars will i have left,qa_maths
+what is the bbc's latest news,news_query
+yo i need a coffee now,iot_coffee
+skip,play_podcasts
+bingo,general_quirky
+set my alarm for six am tomorrow,alarm_set
+is there any train plying from pune to mumbai tonight,transport_query
+what amount of traffic in this road,transport_traffic
+"it's helpful, thank you very much.",general_praise
+remind me the upcoming meeting at four am today,calendar_set
+switch to night light setting,iot_hue_lightchange
+remove this list from the others,lists_remove
+how would you describe a tennis ball,qa_definition
+what genre is this song currently playing,music_query
+go back to animal farm,play_audiobook
+read to me,play_audiobook
+set alarm tomorrow at six am,alarm_set
+create vacation list,lists_createoradd
+erase next calendar event,calendar_remove
+put the playlist on shuffle,music_settings
+please delete this item,lists_remove
+confirm the alarm time,alarm_query
+please email celine,email_sendemail
+what is one dollar in euros,qa_currency
+once again clarify me about your answers please.,general_explain
+hows twitter,social_query
+could you please cancel my train ticket,transport_ticket
+it's time for junk food,takeaway_order
+i'd like a cappuccino please,iot_coffee
+do you want to play solitaire,play_game
+"you did nice job, thank you.",general_praise
+"that's enough, stop it.",general_commandstop
+stop powering the wemo socket,iot_wemo_off
+is it going to snow tonight,weather_query
+"this does not matter, olly.",general_dontcare
+start playing my song list,play_music
+give details of rock sand,qa_definition
+where to buy cannon cameras,recommendation_locations
+find me the name of the artist of this music,music_query
+brighter,iot_hue_lightup
